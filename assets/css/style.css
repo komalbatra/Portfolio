@@ -206,17 +206,17 @@ img{
   height: auto;
 }
 
-.about-me {
+#about-me {
 	background: rgba(255, 255, 255, 1) no-repeat center;
 	background-size: cover;
-	padding-top: 8rem;
-	padding-bottom: 12rem;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	position: relative;
 }
 
-.intro-info {
+/* .intro-info {
   margin-left: 40px;
-}
+} */
 
 .section-intro h5 {
   color: rgba(131, 34, 50, 1);
@@ -441,9 +441,6 @@ img{
 }
 
 
-/*
- * Footer
- */
-.footer {
-  margin-top:20px;
+.intro-footer {
+  margin-top:40px;
 }
