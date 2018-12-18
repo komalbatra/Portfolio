@@ -1,15 +1,16 @@
 # Portfolio
 
-Used Bootstrap in conjuntion with my own CSS. 
+Komal Batra's Portfolio Page. 
 
-Following requirements completed:
+Developed using Bootstrap in conjuntion with my own CSS. 
 
- - Updated LinkedIn Profile
+My Portfolio Page contains:
+
+ - Link to my LinkedIn Profile
+ - Link to my GitHub Profile
  - Professional Picture
- - PDF format of resume available
- - Website design update
- - GitHub respository Links
- - Deployed Website Links
+ - PDF format of my resume 
+ - My portfolio with GitHub respository Links and Deployed Website Links
  - Contact Information
 
 - - -
